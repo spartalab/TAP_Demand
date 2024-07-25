@@ -1,0 +1,11 @@
+Metric,Value
+TSTT,19681693.010024
+Total_Possible_Demand,822409.642596
+Realized_Demand,547969.302714
+Demand_Not_Traveling,274440.339882
+Average_Travel_Time,35.917510
+AEC,0.019741
+TMF,11164.778053
+Relative_Gap,0.000550
+Average_Trip_Length,66132.954888
+Total_distance_traveled,36238829176.198158
